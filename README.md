@@ -31,6 +31,9 @@ This is based on Course taught at [nptel](https://nptel.ac.in/courses/106/106/10
    - [Convolution using filter](https://github.com/prajinkhadka/Deep-Learning-for-Computer-Vision/blob/master/Week%202/Linear%20Filter%2C%20Convolution%2C%20Sobel%20%2C%20Laplacian%20filter.ipynb)
    - [Sobel Filter(Vertical and Horizontal )](https://github.com/prajinkhadka/Deep-Learning-for-Computer-Vision/blob/master/Week%202/Linear%20Filter%2C%20Convolution%2C%20Sobel%20%2C%20Laplacian%20filter.ipynb)
    - [Laplacian Filter](https://github.com/prajinkhadka/Deep-Learning-for-Computer-Vision/blob/master/Week%202/Linear%20Filter%2C%20Convolution%2C%20Sobel%20%2C%20Laplacian%20filter.ipynb)
+   - [Fourier Transform](https://github.com/prajinkhadka/Deep-Learning-for-Computer-Vision/blob/master/Week%202/Fourier%20Transform.ipynb)
+   - [Face Detection using  Haar Cascades](https://github.com/prajinkhadka/Deep-Learning-for-Computer-Vision/blob/master/Week%202/Face%20Detection%20using%20Harrcascase.ipynb)
+         - [OpenCV Tutorial](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html)
    
    
   Week 2 [LECTURE SLIDES](https://drive.google.com/drive/folders/19qwMgf6H4JFQvbLL15_JhZRFktRSdxyU?usp=sharing)
