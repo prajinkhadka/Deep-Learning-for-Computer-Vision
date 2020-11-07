@@ -44,6 +44,8 @@ This is based on Course taught at [nptel](https://nptel.ac.in/courses/106/106/10
    - [Estimating Affine Transformation](https://github.com/prajinkhadka/Deep-Learning-for-Computer-Vision/blob/master/Week%203%20and%204/Canny%20Edge%20Detector%2CHough%20Transform%2C%20%20Affine%20Transformation%2C%20RANSAC%2C%20Harris%20Corner%20Detection%2C%20pytorch%20NN.ipynb)
    - [Point match using RANSAC(Scratch Implementation)](https://github.com/prajinkhadka/Deep-Learning-for-Computer-Vision/blob/master/Week%203%20and%204/Canny%20Edge%20Detector%2CHough%20Transform%2C%20%20Affine%20Transformation%2C%20RANSAC%2C%20Harris%20Corner%20Detection%2C%20pytorch%20NN.ipynb)
    - [Harris Corner Detector (OpenCV)](https://github.com/prajinkhadka/Deep-Learning-for-Computer-Vision/blob/master/Week%203%20and%204/Canny%20Edge%20Detector%2CHough%20Transform%2C%20%20Affine%20Transformation%2C%20RANSAC%2C%20Harris%20Corner%20Detection%2C%20pytorch%20NN.ipynb)
+   - [Contour Detection](https://github.com/prajinkhadka/Deep-Learning-for-Computer-Vision/blob/master/Week%203%20and%204/Contour%20Detection%20and%20Features.ipynb)
+   - [K means Clustering](https://github.com/prajinkhadka/Deep-Learning-for-Computer-Vision/blob/master/Week%203%20and%204/K%20means.ipynb)
    - [CNN in Pytorch](https://github.com/prajinkhadka/Deep-Learning-for-Computer-Vision/blob/master/Week%203%20and%204/Canny%20Edge%20Detector%2CHough%20Transform%2C%20%20Affine%20Transformation%2C%20RANSAC%2C%20Harris%20Corner%20Detection%2C%20pytorch%20NN.ipynb)
 
   Week 3 [LECTURE SLIDES](https://drive.google.com/drive/folders/11qRz_sCbmJdtTcPzsxyo-ox_qX_YDjRM?usp=sharing)
