@@ -17,8 +17,12 @@ This is based on Course taught at [nptel](https://nptel.ac.in/courses/106/106/10
    - [Contrast Stretching](https://github.com/prajinkhadka/Deep-Learning-for-Computer-Vision/blob/master/Week%201/ContrastStretching.ipynb)
    - [Gray Scaling](https://github.com/prajinkhadka/Deep-Learning-for-Computer-Vision/blob/master/Week%201/GrayScaling.ipynb)
    - [Image as Grid of Pixels](https://github.com/prajinkhadka/Deep-Learning-for-Computer-Vision/blob/master/Week%201/Image%20as%20Grid%20of%20Pixels.ipynb)
+   - [Visualizing RGB channels](https://github.com/prajinkhadka/Deep-Learning-for-Computer-Vision/blob/master/Week%201/Visualizing_RGB_Channels.ipynb)
    - [Min-Max Stretching](https://github.com/prajinkhadka/Deep-Learning-for-Computer-Vision/blob/master/Week%201/Min-Max%20Stretching%20.ipynb)
    - [OpenCV Introduction](https://github.com/prajinkhadka/Deep-Learning-for-Computer-Vision/blob/master/Week%201/opencv_Introduction.ipynb)
+   - [HSV Color Space Thresholding](https://github.com/prajinkhadka/Deep-Learning-for-Computer-Vision/blob/master/Week%201/HSV%20Color%20space%20thresholding.ipynb)
+   - [Color Thresholding ( RGB and HSV) ](https://github.com/prajinkhadka/Deep-Learning-for-Computer-Vision/blob/master/Week%201/Color%20Thresholding.ipynb)
+   - [Day Night Image Classification](https://github.com/prajinkhadka/Deep-Learning-for-Computer-Vision/blob/master/Week%201/day_night_image_classification.ipynb)
    
   Week 1 [LECTURE SLIDES](https://drive.google.com/drive/folders/199Xs3MCDzIDNow7zdxGKMwdUiGpsBw3e?usp=sharing)
 
